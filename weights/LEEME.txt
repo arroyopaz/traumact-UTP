@@ -1,0 +1,8 @@
+Coloque aquí los tres archivos de pesos generados por final-ensemble.ipynb en Kaggle:
+
+  model_soft_tissue.pth
+  model_liver.pth
+  model_abdomen.pth
+
+(cada uno de ~19 MB). Sin ellos la aplicación funciona en MODO DEMOSTRACIÓN con
+probabilidades simuladas. También pueden subirse desde la barra lateral de la app.
