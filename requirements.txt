@@ -1,0 +1,9 @@
+streamlit>=1.40
+torch>=2.2
+torchvision>=0.17
+pydicom>=2.4
+opencv-python-headless>=4.8
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pytest>=8.0
